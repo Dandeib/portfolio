@@ -10,7 +10,7 @@ export default function Projects() {
       title: "Fruity Bot",
       description: "A Discord bot that provides various utilities and fun commands for users.",
       tags: ["Discord.js", "TypeScript", "MongoDB"],
-      status: "Closed Beta",
+      status: "Discontinued Development",
       link: "https://fruity.bot",
       image: "/fruitybot.png"
     },
