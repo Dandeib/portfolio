@@ -15,12 +15,20 @@ export default function Projects() {
       image: "/fruitybot.png"
     },
     {
-      title: "DBsGameplay.net",
-      description: "DBsGameplay.net is an exceptional minecraft server with a custom game mode where I work as a discord bot and website developer",
+      title: "Awonia.net",
+      description: "Awonia.net is an exceptional minecraft server with a custom game mode where I work as a discord bot and website developer",
       tags: ["Next.js", "TypeScript", "TailwindCSS", "Discord.js", "Java - Plugin Development"],
+      status: "Finished",
+      link: "https://awonia.net",
+      image: "/awonia.png"
+    },
+    {
+      title: "RadioPlayz",
+      description: "RadioPlayz is a radio station that provides musics for users.",
+      tags: ["Next.js", "TypeScript", "TailwindCSS"],
       status: "Under Development",
-      link: "https://dbsgameplay.net",
-      image: "/dbsgameplay.png"
+      link: "http://dandeib.de:3001",
+      image: "/radioplayz.png"
     }
   ];
 

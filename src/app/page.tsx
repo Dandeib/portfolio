@@ -110,11 +110,11 @@ export default function Home() {
           >
             <div className="flex items-center gap-2 hover:text-purple-400 transition-colors">
               <FaEnvelope size={20} />
-              <span>contact@dandeib.de</span>
+              <a href='mailto:contact@dandeib.de'>contact@dandeib.de</a>
             </div>
             <div className="flex items-center gap-2 hover:text-purple-400 transition-colors">
               <FaDiscord size={20} />
-              <span>dandeib</span>
+              <a href='https://discord.com/users/dandeib'>dandeib</a>
             </div>
           </motion.div>
         </div>
@@ -149,11 +149,11 @@ export default function Home() {
             <ul className="space-y-3 text-lg text-gray-300">
               <li className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-purple-500 rounded-full"></span>
-                Fruity Bot Development
+                Developing my own game
               </li>
               <li className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-purple-500 rounded-full"></span>
-                DBS Gameplay Website
+                <a href='https://awonia.net'>Awonia.net</a>
               </li>
               <li className="flex items-center gap-2">
                 <span className="w-2 h-2 bg-purple-500 rounded-full"></span>
